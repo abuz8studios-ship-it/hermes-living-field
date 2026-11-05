@@ -1,0 +1,5 @@
+name: living-field
+version: "0.1.0"
+description: "Hermes Desktop pane of the ABUZ8 living spatial field. Four domains, synapses that speed up only while the focused session is actually working. No fabricated metrics."
+author: "Ahmad Abu Zait (ABUZ8)"
+requires_hermes: ">=0.22.0"
